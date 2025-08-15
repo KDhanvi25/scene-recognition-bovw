@@ -71,7 +71,6 @@ Sample Classification Results
 See visulizatoin.md for true positives, false positives, and false negatives for each category.
 
 
-
 Key Scripts
 build_vocabulary.py – Extracts SIFT features and runs k-means to create a vocabulary.
 get_bags_of_sifts.py – Encodes images into BoVW histograms.
